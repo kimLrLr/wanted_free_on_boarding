@@ -7,7 +7,7 @@ import { Count04 } from "./day02/Count04";
 import { Count05 } from "./day02/Count05";
 import { Count06 } from "./day02/Count06";
 import { Count07 } from "./day02/Count07";
-import Count08 from "./day02/Count08";
+// import { Count08 } from "./day02/Count08";
 // import { ToDoMiniTest01 } from "./day01/ToDoMiniTest01";
 // import { ToDoMiniTest02 } from "./day01/ToDoMiniTest02";
 // import { ToDoMiniTest03 } from "./day01/ToDoMiniTest03";
@@ -36,6 +36,7 @@ root.render(
     <Count05 />
     <Count06 />
     <Count07 />
-    <Count08 />
+    {/* <Count08 /> */}
+    {/* 2일차 */}
   </React.StrictMode>
 );
