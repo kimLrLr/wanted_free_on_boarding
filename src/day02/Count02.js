@@ -13,8 +13,8 @@ export const Count02 = () => {
   return (
     <div>
       <h1>Count: {count}</h1>
-      <button onClick={onIcrenment}>Increment</button>
-      <button onClick={onDecrement}>Decrement</button>
+      <button onClick={onIcrenment}>+</button>
+      <button onClick={onDecrement}>-</button>
     </div>
   );
 };

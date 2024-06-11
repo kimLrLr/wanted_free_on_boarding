@@ -1,6 +1,4 @@
-import { AnotherComponent } from "./components/AnotherComponent";
-import { Counter } from "./components/Counter";
-import { CounterProvider } from "./components/CounterProvider";
+import { CounterProvider, Counter, AnotherComponent } from "./context";
 
 export const Count07 = () => {
   return (
