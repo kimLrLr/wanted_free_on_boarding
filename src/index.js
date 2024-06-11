@@ -38,5 +38,7 @@ root.render(
     {/* <Count07 /> */}
     {/* <Count08 /> */}
     {/* 2일차 */}
+
+    {/* 3일차 */}
   </React.StrictMode>
 );
